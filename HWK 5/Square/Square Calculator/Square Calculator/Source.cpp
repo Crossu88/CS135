@@ -1,3 +1,19 @@
+/* -----------------------------------------------------------------------------
+
+FILE:              Source.CPP
+
+DESCRIPTION:       Gathers, calculates, and displays the data of a rectangle.
+
+NOTES:             N/A
+
+MODIFICATION HISTORY:
+
+Author					 Date                Version
+---------------          ----------          --------------
+Holden Bowman			 2018-02-20          1.0
+
+----------------------------------------------------------------------------- */
+
 #include <iostream>
 using namespace std;
 
@@ -5,6 +21,7 @@ using namespace std;
 FUNCTION NAME: getWidth.
 FUNCTION USE: Prompts for and returns a width.
 DESCRIPTION: Uses iostream to return a width given by the user.
+RETURNS: Width of the rectangle.
 ------------------------------------------------------*/
 
 double getWidth()
@@ -19,6 +36,7 @@ double getWidth()
 FUNCTION NAME: getLength.
 FUNCTION USE: Prompts for and returns a length.
 DESCRIPTION: Uses iostream to return a length given by the user.
+RETURNS: Length of the rectangle.
 ------------------------------------------------------*/
 
 double getLength()
@@ -33,6 +51,7 @@ double getLength()
 FUNCTION NAME: getArea.
 FUNCTION USE: Calculated an area of a rectangle.
 DESCRIPTION: Using two arguments in order to calculate the area of a square.
+RETURNS: Area of the rectangle.
 ------------------------------------------------------*/
 
 double getArea(double x, double y)

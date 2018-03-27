@@ -1,0 +1,7 @@
+Chicago 2
+Detroit 2
+New_York 1
+Reno 3
+Albany 5
+Pittsburgh 5
+Louisville 2
