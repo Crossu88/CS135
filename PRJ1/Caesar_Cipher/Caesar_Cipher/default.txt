@@ -1,1 +1,6 @@
-12 Hello friends
+12
+Hello friends
+3
+How are you
+4
+Fine
